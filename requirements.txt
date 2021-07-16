@@ -1,10 +1,8 @@
 streamlit==0.84.1
-numpy @ file:///C:/ci/numpy_and_numpy_base_1620833114945/work
-geopandas @ file:///tmp/build/80754af9/geopandas_1594937497867/work
-pandas @ file:///C:/ci/pandas_1624383612827/work
 Shapely==1.7.1
 scipy==1.7.0
 seaborn==0.11.1
 matplotlib==3.4.2
 matplotlib-inline==0.1.2
-
+geopandas @ file:///tmp/build/80754af9/geopandas_1594937497867/work
+pandas @ file:///C:/ci/pandas_1624383612827/work
