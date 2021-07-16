@@ -1,5 +1,4 @@
 # 대시보드_V1[[Link](https://k7-dashboard.herokuapp.com/)]
-https://k7-dashboard.herokuapp.com/
 ## Data
 - 서울_merged.csv
 - 서울법정동.geojson
